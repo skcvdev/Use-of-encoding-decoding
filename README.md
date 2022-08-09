@@ -1,4 +1,4 @@
-Application of Encode and Decod
+Application of Encode and Decode
  
 The concept of combinational logic states that two or more input states define one or more output states. 
 Combinational logic circuits are encoders and decoders. With the help of boolean algebra, we implement combinational logic.
